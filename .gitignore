@@ -1,0 +1,12 @@
+# Build output
+/dist/*
+!/dist/RvtNwcSorter2024.dll
+!/dist/RvtNwcSorter.exe
+bin/
+obj/
+
+# Local IDE state
+.vs/
+*.user
+*.suo
+/dist
